@@ -23,7 +23,8 @@ images/           # Icons and images used in the app
 ```
 
 ## Screenshots
-Add screenshots of your app here (optional).
+![TODO Screen Shot](images/1.png)
+![TODO Screen Shot](images/2.png)
 
 ## Credits
 - Developed by Raju
